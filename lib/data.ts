@@ -2,7 +2,7 @@ export const site = {
   name: "Mohammed Afsal",
   title: "Lead Software Engineer",
   tagline: "Full Stack + Agentic AI",
-  url: "https://afsal-portfolio.pages.dev",
+  url: "https://afsel.dev",
   location: "Qatar",
   linkedin: "https://linkedin.com/in/muhamed-afsal",
   github: "https://github.com/afsalcodehack",
@@ -112,7 +112,7 @@ export const skillGroups = [
 export const experience = [
   {
     role: "Lead Software Engineer",
-    company: "Borncode Qatar",
+    company: "Qatar Government",
     period: "Feb 2016 – Present",
     location: "Qatar",
     summary:

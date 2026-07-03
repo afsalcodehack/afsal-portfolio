@@ -124,12 +124,9 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-line py-8">
-        <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-5 text-xs text-muted">
+        <div className="mx-auto max-w-5xl px-5 text-xs text-muted">
           <p>
             © {new Date().getFullYear()} {site.name}
-          </p>
-          <p className="font-mono">
-            Built with Next.js 16 · Tailwind v4 · Deployed on Cloudflare Pages
           </p>
         </div>
       </footer>

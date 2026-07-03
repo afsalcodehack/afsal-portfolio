@@ -17,7 +17,7 @@ export default function Nav() {
     <header className="fixed top-0 inset-x-0 z-50">
       <nav className="glass mx-auto mt-3 flex max-w-5xl items-center justify-between rounded-2xl px-5 py-3 sm:mt-4">
         <a href="#top" className="font-mono text-sm font-semibold tracking-tight">
-          <span className="text-gradient">afsal</span>
+          <span className="text-gradient">afsel</span>
           <span className="text-muted">.dev</span>
         </a>
 

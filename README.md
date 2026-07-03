@@ -2,7 +2,7 @@
 
 Personal profile site for **Mohammed Afsal**, Lead Software Engineer (Full Stack + Agentic AI).
 
-**Live:** https://afsal-portfolio.pages.dev
+**Live:** https://afsel.dev
 
 ## Stack
 

@@ -68,7 +68,7 @@ const jsonLd = {
   sameAs: [site.linkedin, site.github],
   worksFor: {
     "@type": "Organization",
-    name: "Borncode Qatar",
+    name: "Qatar Government",
   },
   alumniOf: {
     "@type": "CollegeOrUniversity",
